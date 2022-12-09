@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import { RouterProvider } from 'react-router-dom';
 import routes from './routes/routes';
+import store from './redux/store';
+import { Provider } from 'react-redux';
 
 function App() {
   return (
@@ -10,9 +12,9 @@ function App() {
     //   <h2 class="bg-sky-500 text-red-300" >Hello</h2>
     //   <h2 class="text-stone-700 text-8xl" >Hello</h2>
     // </div>
-    <div>
+    <Provider store={store}>
       <RouterProvider router={routes} />
-    </div>
+    </Provider>
   );
 }
 

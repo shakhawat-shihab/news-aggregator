@@ -6,7 +6,9 @@ import NewsList from "../pages/dashboard/NewsList/NewsList";
 import UpdateNews from "../pages/dashboard/UpdateNews/UpdateNews";
 import About from "../pages/main/About/About";
 import History from "../pages/main/History/History";
-import Home from "../pages/main/Services/Services";
+import Home from "../pages/main/Home/Home";
+import NewsDetails from "../pages/main/NewsDetails/NewsDetails";
+
 
 
 const routes = createBrowserRouter([
@@ -19,7 +21,7 @@ const routes = createBrowserRouter([
                 element: <Home />,
             },
             {
-                path: "/home",
+                path: "home",
                 element: <Home />,
             },
             {
@@ -27,8 +29,16 @@ const routes = createBrowserRouter([
                 element: <About />,
             },
             {
+                path: "history/:id",
+                element: <NewsDetails />,
+            },
+            {
                 path: "history",
                 element: <History />,
+            },
+            {
+                path: "news/:id",
+                element: <NewsDetails />,
             },
             // {
             //     path: "cart",
