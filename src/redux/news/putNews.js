@@ -3,7 +3,7 @@ import { updateNews } from "../actions/newsActions"
 
 const updateNewsData = (news, id) => {
     return async (dispatch, getState) => {
-        const res = await fetch(`http://localhost:5000/news/${id}`,
+        const res = await fetch(`https://al-bengali-news.onrender.com/news/${id}`,
             {
                 method: 'put',
                 body: JSON.stringify(news),

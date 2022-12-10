@@ -14,7 +14,7 @@ const Home = () => {
     let content;
 
     useEffect(() => {
-        // fetch("http://localhost:5000/products")
+        // fetch("https://al-bengali-news.onrender.com/products")
         //   .then((res) => res.json())
         //   .then((data) => dispatch(loadProduct(data.data)));
         dispatch(loadNewsData())

@@ -2,7 +2,7 @@ import { addNews } from "../actions/newsActions"
 
 const addNewsData = (product) => {
     return async (dispatch, getState) => {
-        const res = await fetch('http://localhost:5000/news',
+        const res = await fetch('https://al-bengali-news.onrender.com/news',
             {
                 method: 'post',
                 body: JSON.stringify(product),

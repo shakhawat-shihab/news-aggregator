@@ -1,31 +1,42 @@
 [
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18afe"
+        },
         "source": {
             "id": null,
             "name": "The Star Online"
         },
         "author": "Sebastian Tong, Kurt Wagner",
         "title": "Elon Musk slams San Francisco for probe of bedrooms at Twitter HQ",
-        "description": "Elon Musk on Dec 6 criticised San Francisco Mayor London Breed following a report the city is investigating Twitter Inc for setting up bedrooms at its headquarters, saying the company was being unfairly attacked for “providing beds for tired employees”. Read …",
+        "description": "Elon Musk on Dec 6 criticised San Francisco Mayor London Breed following a report the city is investigating Twitter Inc for setting up bedrooms at its headquarters, saying the company was being unfairly attacked for “providing beds for tired employees”",
         "url": "https://www.thestar.com.my/tech/tech-news/2022/12/07/elon-musk-slams-san-francisco-for-probe-of-bedrooms-at-twitter-hq",
         "urlToImage": "https://apicms.thestar.com.my/uploads/images/2022/12/07/1852128.jpg",
-        "publishedAt": "2022-12-07T02:51:00Z",
-        "content": "Elon Musk on Dec 6 criticised San Francisco Mayor London Breed following a report the city is investigating Twitter Inc for setting up bedrooms at its headquarters, saying the company was being unfai… [+1855 chars]"
+        "publishedAt": "2022-12-10T17:55:04.905Z",
+        "content": "Elon Musk on Dec 6 criticised San Francisco Mayor London Breed following a report the city is investigating Twitter Inc for setting up bedrooms at its headquarters, saying the company was being unfairly attacked for “providing beds for tired employees”.\n\n\nTwitter in recent weeks has turned several conference rooms at the office into makeshift bedrooms, complete with furniture like bedside tables and armchairs, according to people familiar with the matter. It no longer needs as many conference rooms now that thousands of employees have either been laid off or fired after the billionaire’s US$44bil (RM193.42bil) purchase of the company in late October.\n\nA spokesperson for the city’s Department of Building Inspections told the San Francisco Chronicle that it would conduct a site inspection on Twitter headquarters following a complaint about the bedrooms, a possible violation of the building code.\n\nIn a tweet, Musk attached a link to a recent Chronicle report about a baby’s near death after allegedly accidentally ingesting fentanyl at a San Francisco playground. After the incident, Breed tweeted “it’s important to keep public spaces safe” and said those who sell the drug must be held accountable.\n\nBefore his Twitter purchase closed, Musk floated the idea of turning the social media company’s office building into a homeless shelter, saying that employees weren’t turning up due to its now discontinued work-from-home policies. Since acquiring the company and firing around 3,700 employees, nearly half of its workforce, he issued an ultimatum to remaining staff to commit to “hardcore” Twitter.",
+        "category": "technology"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18aff"
+        },
         "source": {
             "id": null,
             "name": "Biztoc.com"
         },
         "author": "bitcoin.com",
         "title": "Lawmaker Pleads With Sam Bankman-Fried to Attend Congress Hearing on FTX",
-        "description": "Congresswoman Maxine Waters, chair of the House Committee on Financial Services, has politely asked former FTX CEO Sam Bankman-Fried (SBF) to attend a congressional hearing on the collapse of his cryptocurrency exchange. Bankman-Fried says he will testify whe…",
+        "description": "Congresswoman Maxine Waters, chair of the House Committee on Financial Services, has politely asked former FTX CEO Sam Bankman-Fried (SBF) to attend a congressional hearing on the collapse of his cryptocurrency exchange. Bankman-Fried says he will testify whe",
         "url": "https://biztoc.com/x/387768ca42987f77",
         "urlToImage": "https://c.biztoc.com/p/387768ca42987f77/og.webp",
-        "publishedAt": "2022-12-07T02:44:04Z",
-        "content": "Congresswoman Maxine Waters, chair of the House Committee on Financial Services, has politely asked former FTX CEO Sam Bankman-Fried (SBF) to attend a congressional hearing on the collapse of his cry… [+981 chars]"
+        "publishedAt": "2022-12-10T17:40:56.288Z",
+        "content": "Congresswoman Maxine Waters, chair of the House Committee on Financial Services, has politely asked former FTX CEO Sam Bankman-Fried (SBF) to attend a congressional hearing on the collapse of his cryptocurrency exchange. Bankman-Fried says he will testify when he has finished “learning and reviewing what happened.”\n\nBankman-Fried Responds to Rep. Waters’ Invitation\n\nThe U.S. House Committee on Financial Services will hold a congressional hearing on the collapse of crypto exchange FTX on Dec. 13. Congresswoman Maxine Waters (D-CA), the committee’s chair, has been trying to get former FTX CEO Sam Bankman-Fried (SBF) to attend the hearing. However, instead of issuing a subpoena for him to testify, Waters politely asked him on Twitter Friday.\n\n“We appreciate that you’ve been candid in your discussions about what happened at FTX. Your willingness to talk to the public will help the company’s customers, investors, and others. To that end, we would welcome your participation in our hearing on.",
+        "category": "politics"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b00"
+        },
         "source": {
             "id": null,
             "name": "Business Standard"
@@ -35,124 +46,161 @@
         "description": "Twitter in recent weeks has turned several conference rooms at the office into makeshift bedrooms, complete with furniture like bedside tables and armchairs",
         "url": "https://www.business-standard.com/article/international/elon-musk-slams-san-francisco-for-probe-of-bedrooms-at-twitter-headquarters-122120700136_1.html",
         "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/07/full/1670379530-9546.jpg",
-        "publishedAt": "2022-12-07T02:35:00Z",
-        "content": "Elon Musk on Tuesday criticized San Francisco Mayor London Breed following a report the city is investigating Twitter Inc. for setting up bedrooms at its headquarters, saying the company was being un… [+2010 chars]"
+        "publishedAt": "2022-12-10T17:55:52.861Z",
+        "content": "\nTwitter in recent weeks has turned several conference rooms at the office into makeshift bedrooms, complete with furniture like bedside tables and armchairs, according to people familiar with the matter. It no longer needs as many conference rooms now that thousands of employees have either been laid off or fired after the billionaire’s $44 billion purchase of the company in late October.\n\nA spokesperson for the city’s Department of Building Inspections told the San Francisco Chronicle that it would conduct a site inspection on Twitter headquarters following a complaint about the bedrooms, a possible violation of the building code.\n\n In a tweet, Musk attached a link to a recent Chronicle report about a baby’s near death after allegedly accidentally ingesting fentanyl at a San Francisco playground. After the incident, Breed tweeted “it’s important to keep public spaces safe” and said those who sell the drug must be held accountable.\n\nBefore his Twitter purchase closed, Musk floated the idea of turning the social media company’s office building into a homeless shelter, saying that employees weren’t turning up due to its now discontinued work-from-home policies. Since acquiring the company and firing around 3,700 employees, nearly half of its workforce, he issued an ultimatum to remaining staff to commit to “hardcore” Twitter.\n\nNot only does Musk expect employees to work long hours and even sleep at the office when necessary, but he has also asked many of his employees at Tesla Inc. and the Boring Co. to assist him at Twitter during the transition period. The rooms are also believed to be for those workers, some of whom travel to Twitter for work meetings, the people with knowledge of the matter said.",
+        "category": "technology"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b01"
+        },
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
         "author": "Danny Lee and Eduardo Thomson",
         "title": "Warren Buffett 'Loves' China’s  BYD Despite Selldown, EV Executive Says",
-        "description": "(Bloomberg) -- Warren Buffett “loves” China’s biggest electric-vehicle maker BYD Co. and isn’t abandoning it, a senior executive from the company said...",
+        "description": "(Bloomberg) -- Warren Buffett “loves” China’s biggest electric-vehicle maker BYD Co. and isn’t abandoning it, a senior executive from the company said, despite the legendary investor’s Berkshire Hathaway Inc. offloading more than a fifth of its stake this year.",
         "url": "https://finance.yahoo.com/news/warren-buffett-loves-china-byd-013631117.html",
         "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5LIu7gpRKKuuKbdoAd7ZYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzg-/https://media.zenfs.com/en/bloomberg_markets_842/c1e7e64f2ff2b33c5af01574ac8bf142",
-        "publishedAt": "2022-12-07T01:36:31Z",
-        "content": "(Bloomberg) -- Warren Buffett loves Chinas biggest electric-vehicle maker BYD Co. and isnt abandoning it, a senior executive from the company said, despite the legendary investors Berkshire Hathaway … [+2735 chars]"
+        "publishedAt": "2022-12-10T17:58:11.434Z",
+        "content": "(Bloomberg) -- Warren Buffett “loves” China’s biggest electric-vehicle maker BYD Co. and isn’t abandoning it, a senior executive from the company said, despite the legendary investor’s Berkshire Hathaway Inc. offloading more than a fifth of its stake this year.\n\n“It’s very natural for him to get some returns — cash out,” BYD Executive Vice President Stella Li said in an interview Tuesday, in the first high-level public comments addressing the selldown of Buffett’s long-held stake in the company.\n\nBYD Eyes Chile Lithium Deals in Global Hunt for EV Material\n\nBYD shares jumped 6.9% in Hong Kong on Wednesday morning, hitting their highest since September and among the top gainers on the Hang Seng Index.\n\nBerkshire, which first invested in BYD in September 2008, disclosed in August the first known sale of some of its stake, held in the automaker’s Hong Kong-listed shares. The selloff accelerated in November, paring its holding to 15.99% from an initial 20.04% and raising questions about Buffett’s long-term commitment to the Shenzhen-based company.\n\n“I don’t feel this is any indication he’s abandoned BYD,” Li said. “He loves BYD, he loves management” and will “always be” the biggest supporter of the company, she said.\n\nA spokesperson for Berkshire didn’t immediately respond to requests for comment.\n\nBYD’s shares have fallen about 30% in Hong Kong since a Berkshire-sized stake appeared in the Hong Kong exchange’s clearing system on July 11, fueling the initial speculation that Buffett may sell his holding. The slump has wiped about HK$230 billion ($30 billion) from BYD’s market value.\n\nThe investment has still been a big winner for Berkshire and Buffett. An initial $230 million outlay has ballooned more than 1,570%, and even after the selldown Berkshire’s remaining stake is worth around $4.5 billion.",
+        "category": "business"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b02"
+        },
         "source": {
             "id": null,
             "name": "Tech Times"
         },
         "author": "Isaiah Richard",
         "title": "Toyota Corolla Cross Hydrogen Concept: Clean Energy Without the Batteries—When is it Coming?",
-        "description": "Not an EV, but uses a fuel cell which features zero emissions from Toyota's new vehicle.",
+        "description": "Toyota is proud to present its latest take on clean energy vehicles, and it is not featuring batteries to power the car. It is a hydrogen fuel cell that leaves high emissions behind, brought by gasoline use.\n\nThe Toyota Corolla Cross Hydrogen Concept was recently unveiled today, featuring the same Gazoo Racing engine from the previous Corolla. ",
         "url": "https://www.techtimes.com/articles/284503/20221206/toyota-corolla-cross-hydrogen-concept-clean-energy-without-batteries—when-coming.htm",
         "urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/416496/toyota-corolla-cross-h2-concept.jpg",
-        "publishedAt": "2022-12-07T01:29:00Z",
-        "content": "Toyota is proud to present its latest take on clean energy vehicles, and it is not featuring batteries to power the car. It is a hydrogen fuel cell that leaves high emissions behind, brought by gasol… [+3150 chars]"
+        "publishedAt": "2022-12-10T17:56:38.439Z",
+        "content": "Toyota is proud to present its latest take on clean energy vehicles, and it is not featuring batteries to power the car. It is a hydrogen fuel cell that leaves high emissions behind, brought by gasoline use.\n\nThe Toyota Corolla Cross Hydrogen Concept was recently unveiled today, featuring the same Gazoo Racing engine from the previous Corolla. \n\nThe Corolla Cross H2 Concept is now one of the leading developments towards the use of Hydrogen fuel cells in the industry, one that will allow combustion engines to live on and avoid phase-outs.\n\n\nToyota announced its latest Corolla Cross Hydrogen Concept, and the company calls this its \"multi-path approach to zero,\" featuring a new fuel cell to bring the world a new meaning to clean energy. \n\nWhat Toyota did was to replace the engine's requirements to burn gasoline fuel, now focusing on hydrogen as its main source. \n\nIt still features the famous GR Corolla engine, featuring a turbocharged 3-cylinder, 1.6-liter displacement motor under its hood. \n\nThe Japanese carmaker said that it replaced the gasoline fuel cell from the car, and retrofitted the engine to take in hydrogen for its combustion process.",
+        "category": "technology"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b03"
+        },
         "source": {
             "id": null,
             "name": "SiliconANGLE News"
         },
         "author": "Duncan Riley",
         "title": "Apple reportedly scales back car plans, postpones launch date to 2026",
-        "description": "Apple Inc. is reported to have scaled back its plans for a self-dirving electric vehicle and postponed the launch date to 2026. Mark Gurman at Bloomberg claims that the project, known internally as Titan, has been in limbo for several months as Apple executiv…",
+        "description": "Apple Inc. is reported to have scaled back its plans for a self-dirving electric vehicle and postponed the launch date to 2026. Mark Gurman at Bloomberg claims that the project, known internally as Titan, has been in limbo for several months as Apple executive",
         "url": "https://siliconangle.com/2022/12/06/apple-reportedly-scales-back-car-plans-postpones-launch-date-2026/",
         "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/02/27050412940_5a0e5ac101_o.jpg",
-        "publishedAt": "2022-12-07T01:27:43Z",
-        "content": "Apple Inc. is reported to have scaled back its plans for a self-dirving electric vehicle and postponed the launch date to 2026.\r\nMark Gurman at Bloomberg claims that the project, known internally as … [+2848 chars]"
+        "publishedAt": "2022-12-10T17:56:48.787Z",
+        "content": "Apple Inc. is reported to have scaled back its plans for a self-driving electric vehicle and postponed the launch date to 2026.\n\nMark Gurman at Bloomberg reported today that the project, known internally as Titan, has been in limbo for several months as Apple executives have grappled with the reality that its vision for a fully autonomous vehicle, one without a steering wheel or pedals, is not currently technologically feasible.\n\nInstead, Apple is said to be planning for a less ambitious design that will include a vehicle with a steering wheel and pedals. Autonomy with the planned vehicle will also  be limited only to highways, which is notably less than what is offered by Tesla Inc. vehicles now.\n\nThe reference to Tesla is apt, since Gurman noted that Apple is grappling with a push into a new market segment with technological obstacles that have challenged some of the world’s largest companies.\n\nOther features Apple is said to be developing for the vehicle include the ability for drivers to undertake others tasks, such as watching a movie or playing a game, while the vehicle is in autonomous mode. The vehicle would then alert the driver to take manual control before coming off a highway on the way to the destination.\n\nApple’s varying efforts to build an autonomous electric vehicle date back to 2014, but the company has had various stumbles across along the way. It was reported in 2016 that the Apple car project was dead in the water after Apple cut hundreds of positions and switched its focus to pursuing self-driving technology that can be applied to other cars. Apple then laid off 190 staff from the project in February 2019.\n\nApple’s downgrading of the autonomous driving features in the planned vehicle comes as no surprise. It was reported in February 2019 that Apple ranked last out of 48 companies testing autonomous vehicle technology in California regarding safety, since Apple’s self-driving car technology required human intervention for nearly every mile driven.\n\nApple’s seemingly renewed interest in building a self-driving car emerged in June 2019 when it acquired self-driving technology startup Drive.ai. Further evidence of momentum came in February 2021 when it was reported that Apple was close to closing a deal with Hyundai Motor Group and its affiliate Kia Corp. to manufacture the vehicle.\n\nAutonomous electric vehicles are hard, but Apple has recently struggled with more simple technology, specifically its attempts to bring a mixed reality headset to market. Like the Apple Car, reports of Apple developing a headset go back nearly a decade, but despite reports that it would be coming to market in 2021 and then 2022, a new report on Dec. 4 suggests that the headset has been pushed back to the second half of 2023.",
+        "category": "technology"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b04"
+        },
         "source": {
             "id": null,
             "name": "Gizmodo Australia"
         },
         "author": "Zachariah Kelly",
         "title": "Polestar Wants to Be More Like Porsche Than Tesla, Says Australian Boss",
-        "description": "After a successful year of operation in Australia, electric Volvo offshoot Polestar is aiming to look more like Porsche than Tesla.\nThe post Polestar Wants to Be More Like Porsche Than Tesla, Says Australian Boss appeared first on Gizmodo Australia.\n  Related…",
+        "description": "After a successful year of operation in Australia, electric Volvo offshoot Polestar is aiming to look more like Porsche than Tesla.\nThe post Polestar Wants to Be More Like Porsche Than Tesla, Says Australian Boss appeared first on Gizmodo Australia.",
         "url": "https://www.gizmodo.com.au/2022/12/polestar-australia-interview/",
         "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/07/polestar-Porsche-australia.png?quality=80&resize=1280,720",
-        "publishedAt": "2022-12-07T01:19:10Z",
-        "content": "Polestar has had a tremendously good year in Australia. Entering the market as an expected ‘Tesla killer’, the company has existed in the shadow of Elon Musk’s company for a while. However, Polestar’… [+6002 chars]"
+        "publishedAt": "2022-12-10T17:57:07.153Z",
+        "content": "Polestar has done a tremendous job of selling itself as ‘option #2’ for electric vehicle owners. The Polestar 2, a terrific car in its own right, is a great alternative to the Tesla Model 3, at an equal price point with a sedan chassis ($67,000 at the time of writing).\n\nThis price point is important. It’s not out of reach for prospective new car buyers that are interested in being early adopters, while also retaining the premium feel of a more expensive car, so it’s a great ‘first go’ vehicle, especially with more expensive models planned. As an aside, this probably indicates why Polestar may not consider a ‘cheap’ model.\n\nBut Polestar doesn’t want to be confined to Tesla comparisons. Polestar’s Australian managing director, Samantha Johnson, told Gizmodo Australia that the company actually sees itself more as a Porsche competitor.\n\n“We’re going to be very different to [Tesla],” Johnson said.\n\n“When we talk about the Polestar 3 onwards, we’re really going into that more luxury space at the high end.\n\n“We’re probably going to be more around, the sort of, Porsche, probably looking at Porsche as more of a competitor and very much break away from [Tesla] really.”\n\nJohnson reckons the company is on its way to defining its own path, with the benefits of Volvo’s tremendous safety history (bloody Volvo driver) and Polestar’s own approach to sustainability.\n\nAnd this mindset is obviously a leading influence on the Polestar Roadster Concept, a concept car that will go on to inform the design of the upcoming Polestar 6. Frankly, the car looks nothing like anything else on the road right now (except, perhaps, Porsche).",
+        "category": "technology"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b05"
+        },
         "source": {
             "id": null,
             "name": "CleanTechnica"
         },
         "author": "Guest Contributor",
         "title": "California Truckers, Help Is On The Way For Electric Trucking",
-        "description": "Freight trucks are critical for the economy but represent a major source of California pollution. Many programs, from the federal to local level, are available to help pay for the transition to zero-emission vehicles. By Nick Chaset, CEO of East Bay Community…",
+        "description": "Freight trucks are critical for the economy but represent a major source of California pollution. Many programs, from the federal to local level, are available to help pay for the transition to zero-emission vehicles. By Nick Chaset, CEO of East Bay Community",
         "url": "https://cleantechnica.com/2022/12/06/california-truckers-help-is-on-the-way-for-electric-trucking/",
         "urlToImage": "https://cleantechnica.com/files/2022/12/Tesla-Semi-Hardcore-Testing-11.png",
-        "publishedAt": "2022-12-07T01:11:49Z",
-        "content": "Freight trucks are critical for the economy but represent a major source of California pollution. Many programs, from the federal to local level, are available to help pay for the transition to zero-… [+4810 chars]"
+        "publishedAt": "2022-12-10T18:07:38.249Z",
+        "content": "Freight vehicles are one of the largest sources of air pollution in the state, and the East Bay and Central Valley are among the biggest emitters. Thirty-percent of the jobs in Alameda County alone are tied to industries that move goods in and out of the Port of Oakland and the Oakland airport.\n\nWhile freight trucks are critical to our economy, they also threaten public health and the planet. Medium- and heavy-duty trucks make up just 7% of California vehicles, but are responsible for more than one-quarter of carbon emissions, more than 60% of smog-forming nitrogen oxides, and more than 55% of lung- and heart-harming fine particulate pollution from vehicles.\n\nSemi-trucks are by far the biggest polluters. While they only account for 10% of trucks on the road, they are responsible for around half of all truck emissions.\n\nCommunities adjacent to freight corridors are impacted most. A recent study by UC Irvine found that deployment of zero-emission trucks will deliver critical health benefits to low-income residents who live and work closer to ports, industrial facilities and highways and experience disproportionate exposure to pollution.\n\nPower providers are doing everything they can to help ease the transition.\n\nWhile electric passenger cars are becoming more common on California roads — rising to roughly 18% of all new car sales this year — medium- and heavy-duty battery electric trucks are just starting to emerge.\n\nThe California Air Resources Board has counted 155 different models of zero-emission vans, trucks and other commercial vehicles on the market — or coming soon from major truck manufacturers. Tesla, for example, has been racing to develop an electric semi against Peterbilt, Freightliner and others. Walmart, Amazon and other fleet operators are placing big orders.\n\nThe state is putting its muscle behind the switch. CARB is implementing clean truck regulations, which require 55% of commercial van and pickup truck sales, 75% of straight-truck sales, and 40% of semi-tractor sales to be zero emission by 2035.",
+        "category": "business"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b06"
+        },
         "source": {
             "id": null,
             "name": "Biztoc.com"
         },
         "author": "benzinga.com",
         "title": "Tesla, Apple, MongoDB, GameStop, SentinelOne: Why These 5 Stocks Are Drawing Retail Investors' Attention Today",
-        "description": "Major Wall Street indices closed over 1% lower on Tuesday as recession worries weighed on investors’ minds. The Nasdaq closed 2% lower, while the Dow Jones ended 1.03% down and the S&P 500 declined 1.44%. Meanwhile, the following five stocks are drawing retai…",
+        "description": "Major Wall Street indices closed over 1% lower on Tuesday as recession worries weighed on investors’ minds. The Nasdaq closed 2% lower, while the Dow Jones ended 1.03% down and the S&P 500 declined 1.44%. Meanwhile, the following five stocks are drawing reta",
         "url": "https://biztoc.com/x/ef2f2d3998b25792",
         "urlToImage": "https://c.biztoc.com/p/ef2f2d3998b25792/og.webp",
-        "publishedAt": "2022-12-07T01:04:05Z",
-        "content": "Major Wall Street indices closed over 1% lower on Tuesday as recession worries weighed on investors minds. The Nasdaq closed 2% lower, while the Dow Jones ended 1.03% down and the S&amp;P 500 decline… [+957 chars]"
+        "publishedAt": "2022-12-10T18:05:04.298Z",
+        "content": "Major Wall Street indices closed over 1% lower on Tuesday as recession worries weighed on investors’ minds. The Nasdaq closed 2% lower, while the Dow Jones ended 1.03% down and the S&P 500 declined 1.44%. Meanwhile, the following five stocks are drawing retail investors’ attention:\n\n1. Tesla Inc TSLA: Shares of Tesla closed 1.44% lower on Tuesday. Electric car deliveries from the EV maker’s Shanghai factory rose to a record in November with Tesla shipping 100,291 cars last month compared to 71,704 in October, reported Bloomberg. This follows aggressive marketing tactics and promotions in China’s increasingly competitive market, the report said.\n\n2. Apple Inc AAPL: Shares of Apple closed 2.54% lower on Tuesday. The iPhone maker has scaled back ambitious self-driving plans for its future electric vehicle while also postponing the car’s target launch date to 2026, reported Bloomberg, citing people with knowledge of the matter.\n\n3. MongoDB Inc MDB: Shares of MongoDB ended Tuesday’s session",
+        "category": "business"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b07"
+        },
         "source": {
             "id": null,
             "name": "Theregister.com"
         },
         "author": "Katyanna Quach",
         "title": "Neuralink reportedly under investigation by Uncle Sam for animal welfare violations",
-        "description": "Rushed 'hack job' surgeries cause creatures to needless die, staffers claim\nNeuralink is reportedly being investigated by the US government for mistreating animals used in lab experiments as the company rushes to build an implantable brain chip.…",
+        "description": "Rushed 'hack job' surgeries cause creatures to needless die, staffers claim\nNeuralink is reportedly being investigated by the US government for mistreating animals used in lab experiments as the company rushes to build an implantable brain chip",
         "url": "https://www.theregister.com/2022/12/07/neuralink_investigation_animals/",
         "urlToImage": "https://regmedia.co.uk/2022/12/07/shutterstock_neuralink.jpg",
-        "publishedAt": "2022-12-07T00:45:15Z",
-        "content": "Neuralink is reportedly being investigated by the US government for possibly mistreating animals used in lab experiments as the company rushes to build an implantable brain chip.\r\nThe startup, founde… [+2866 chars]"
+        "publishedAt": "2022-12-10T18:06:59.372Z",
+        "content": "Neuralink is reportedly being investigated by the US government for possibly mistreating animals in lab experiments as the company rushes to build an implantable brain chip.\n\nThe startup, founded in 2016 by belligerent biz baron Elon Musk, is developing a medical device to help people afflicted with brain disorders to communicate, see, or move more easily. The Tesla tycoon said he wants to see the chips in humans next year.\n\nHowever, before Neuralink obtains permission to start conducting trials on humans from the Food and Drug Administration (FDA), it has to test the technology on animals to show it's safe enough for people to try. \n\nA lawsuit, filed in February by animal rights group the Physicians Committee for Responsible Medicine, accused the startup of killing monkeys after a series of sloppy surgical procedures to insert electrodes inside their skulls. The group alleges that a substance called BioGlue killed two monkeys by \"destroying portions of their brains.\"\n\nThe US Department of Agriculture's Office of Inspector General (USDA OIG) said it was looking into the situation the same month, and has now launched an official probe ",
+        "category": "technology"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b08"
+        },
         "source": {
             "id": null,
             "name": "Biztoc.com"
         },
         "author": "marketwatch.com",
         "title": "Microsoft invested $1 billion in an AI system that helped me write this column. See what it had to say about Tesla",
-        "description": "Can an artificial intelligence system help me write articles about investment ideas? Let’s find out. There are two subjects I would like to cover. But I will have help, and as a result there is a third topic that sprang from the two. Over the weekend, I signe…",
+        "description": "Can an artificial intelligence system help me write articles about investment ideas? Let’s find out. There are two subjects I would like to cover. But I will have help, and as a result there is a third topic that sprang from the two. Over the weekend, I sign",
         "url": "https://biztoc.com/x/792c0f88cf706401",
         "urlToImage": "https://c.biztoc.com/p/792c0f88cf706401/og.webp",
-        "publishedAt": "2022-12-07T00:30:04Z",
-        "content": "Can an artificial intelligence system help me write articles about investment ideas? Lets find out.\r\nThere are two subjects I would like to cover. But I will have help, and as a result there is a thi… [+1006 chars]"
+        "publishedAt": "2022-12-10T17:58:20.960Z",
+        "content": "Can an artificial intelligence system help me write articles about investment ideas? Let’s find out.\n\nThere are two subjects I would like to cover. But I will have help, and as a result there is a third topic that sprang from the two.\n\nOver the weekend, I signed up for OpenAI’s ChatGPT beta site, in which the San Francisco-based company trained a model called ChatGPT, which “interacts in a conversational way,” according to OpenAI. (This column by Emily Bary gives a good explanation of the technology.)\n\nOpenAI was founded in 2015 with backing from Tesla\n\nTSLA,\n\nAccording to OpenAI, a diaglog between the ChatGPT system and the user “makes it possible for ChatGPT to answer follow-up questions, admit its mistakes, challenge incorrect premises and reject inappropriate requests.”\n\nThis weekend, I began with silly ideas, such asking it to write a Shakespeare play in which Michael Jordan and Allen Iverson (AI, get it?) take Apple",
+        "category": "business"
     },
     {
+        "_id": {
+            "$oid": "63901d5a49009d0e75c18b09"
+        },
         "source": {
             "id": null,
             "name": "Realvision.com"
         },
         "author": "Real Vision Podcast Network",
         "title": "What’s the Matter With Big Tech?",
-        "description": "The U.S. equity sell-off extended to a fourth straight trading session today, as the tech-heavy Nasdaq Composite again led to the downside with a 2.18% loss two hours ahead of the close. Meta Platforms is under regulatory scrutiny in the European Union, Apple…",
+        "description": "The U.S. equity sell-off extended to a fourth straight trading session today, as the tech-heavy Nasdaq Composite again led to the downside with a 2.18% loss two hours ahead of the close. Meta Platforms is under regulatory scrutiny in the European Union, Apple",
         "url": "https://www.realvision.com/shows/daily-briefing/videos/whats-the-matter-with-big-tech-pqAl",
         "urlToImage": "https://ichef.realvision.com/1336x/424843e31c9d454fb62136aa9b47a261/hero",
-        "publishedAt": "2022-12-07T00:19:00Z",
-        "content": "Featuring Maggie Lake and Eric Jackson\r\nDecember 06 at 9:00PM 31 minutes\r\nThe U.S. equity sell-off extended to a fourth straight trading session today, as the tech-heavy Nasdaq Composite again led to… [+1190 chars]"
+        "publishedAt": "2022-12-10T17:57:21.690Z",
+        "content": "The U.S. equity sell-off extended to a fourth straight trading session today, as the tech-heavy Nasdaq Composite again led to the downside with a 2.18% loss two hours ahead of the close. Meta Platforms is under regulatory scrutiny in the European Union, Apple is contending with supply-chain restructuring, and Tesla faces stiffening competition amid its CEO’s social media dabbling. And job cuts across the broad tech sector suggest we may be witnessing the end of an era. Maggie Lake welcomes Eric Jackson, the founder of EMJ Capital, to talk about what’s happening with big tech – and to distinguish it from growth tech. We also hear from Whitney Baker, the founder of Totem Macro, about the challenges of building more robust supply chains. Watch the full conversation between Whitney Baker and Andreas Steno Larsen here: https://rvtv.io/perform. We want to hear from you too – please share your questions, comments, and suggestions!\n\nEditor’s Note: Our live chat feature remains unavailable as we upgrade our video player technology. We apologize for the temporary loss of function. But we assure you the upgrade will more than justify the wait. In the meantime, we will be monitoring the comments section. So, in addition to conversing with your fellow community members, please share your questions there.",
+        "category": "technology"
     }
 ]

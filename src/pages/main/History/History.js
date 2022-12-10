@@ -10,7 +10,7 @@ const History = () => {
     const historyNews = useSelector((state) => state.news.history);
 
     // useEffect(() => {
-    //     // fetch("http://localhost:5000/products")
+    //     // fetch("https://al-bengali-news.onrender.com/products")
     //     //   .then((res) => res.json())
     //     //   .then((data) => dispatch(loadProduct(data.data)));
     //     dispatch(loadNewsData())

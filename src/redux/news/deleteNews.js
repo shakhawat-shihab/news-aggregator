@@ -3,7 +3,7 @@ import { removeNews } from "../actions/newsActions";
 
 const deleteNews = (id) => {
     return async (dispatch, getState) => {
-        const res = await fetch(`http://localhost:5000/news/${id}`,
+        const res = await fetch(`https://al-bengali-news.onrender.com/news/${id}`,
             {
                 method: 'delete',
                 headers: {
