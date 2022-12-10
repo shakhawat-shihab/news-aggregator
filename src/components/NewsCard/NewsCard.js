@@ -3,7 +3,8 @@ import { useDispatch } from 'react-redux';
 import { Link, useLocation } from 'react-router-dom';
 import { addToHistory, removeFromHistory } from '../../redux/actions/newsActions';
 import { AiFillDelete } from "react-icons/ai";
-import { BiTimeFive, BiEdit, BiCalendarCheck, BiLinkAlt } from "react-icons/bi";
+import { BiTimeFive, BiEdit, BiCalendarCheck, BiLinkAlt, BiPurchaseTag } from "react-icons/bi";
+import { GrFormView } from "react-icons/gr";
 
 const NewsCard = ({ news }) => {
     const dispatch = useDispatch();
@@ -27,9 +28,8 @@ const NewsCard = ({ news }) => {
                 )}
             </div>
 
-
             <div className='w-100  rounded-2xl'>
-                <img src={news.urlToImage} alt={news.title} style={{ 'height': '180px', 'width': '100%' }} className='rounded-3xl ' />
+                <img src={news.urlToImage} alt={news.title} style={{ 'height': '180px', 'width': '100%' }} className='rounded-3xl border ' />
             </div>
 
             <div className=''>
@@ -69,6 +69,27 @@ const NewsCard = ({ news }) => {
                         <a href={news.url} target="_blank" rel="noopener noreferrer">{news?.url?.trim().slice(0, 35).concat('...')}</a>
                     </span>
                 </p>
+
+                <p className='flex items-center mt-2 '>
+                    <BiPurchaseTag className='text-xl' />
+                    <span className='px-2 text-sm capitalize'>
+                        {
+                            news?.category
+                        }
+                    </span>
+                </p>
+
+
+                {
+                    pathname.includes("history") &&
+                    <p className='flex items-center mt-2 '>
+                        <GrFormView className='text-2xl' />
+                        <span className='px-1 text-xs'>
+                            {news?.count}
+                        </span>
+                    </p>
+                }
+
             </div>
 
 

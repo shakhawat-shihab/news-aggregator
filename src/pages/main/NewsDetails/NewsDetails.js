@@ -9,17 +9,17 @@ const NewsDetails = () => {
     const allNews = useSelector((state) => state.news.news);
     const news = allNews.find(x => x._id === id);
     const date = new Date(news?.publishedAt);
-    console.log(news);
+    // console.log(news);
     return (
         <div className='container'>
             <div className='shadow-lg relative rounded-3xl border p-3 flex flex-col text-indigo-900'>
                 <div className='w-100  rounded-xl text-center'>
-                    <img src={news.urlToImage} alt={news.title} style={{ 'height': '500px', 'width': '70%' }} className='rounded mx-auto ' />
+                    <img src={news?.urlToImage} alt={news?.title} style={{ 'height': '500px', 'width': '70%' }} className='rounded mx-auto border ' />
                 </div>
 
                 <div className='mx-20'>
                     <div className=' my-3 '>
-                        <h2 className='font-bold text-3xl '>{news.title}</h2>
+                        <h2 className='font-bold text-3xl '>{news?.title}</h2>
                     </div>
                     <div>
                         <p className='flex items-center my-2'>
@@ -39,13 +39,13 @@ const NewsDetails = () => {
 
                         <p className='flex items-center '>
                             <BiEdit className='text-xl' />
-                            <span className='px-2 text-sm'>{news.author}</span>
+                            <span className='px-2 text-sm'>{news?.author}</span>
                         </p>
 
                         <p className='flex items-center mt-2 '>
                             <BiLinkAlt className='text-xl' />
                             <span className='px-2 text-sm'>
-                                <a href={news.url} target="_blank" rel="noopener noreferrer">{news?.url?.trim().slice(0, 35).concat('...')}</a>
+                                <a href={news?.url} target="_blank" rel="noopener noreferrer">{news?.url?.trim().slice(0, 35).concat('...')}</a>
                             </span>
                         </p>
                     </div>

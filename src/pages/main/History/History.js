@@ -26,7 +26,9 @@ const History = () => {
             {/* <h1>This is home page</h1> */}
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5' >
                 {
-                    historyNews.map(x => <NewsCard news={x} />)
+                    historyNews
+                        .sort((b, a) => a.count - b.count)
+                        .map(x => <NewsCard news={x} />)
                 }
             </div>
         </div>

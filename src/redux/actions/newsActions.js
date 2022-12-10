@@ -1,12 +1,34 @@
-import { ADD_TO_HISTORY, LOAD_NEWS, REMOVE_FROM_HISTORY } from "../actionTypes/actionTypes";
+import { ADD_CONTENT, ADD_TO_HISTORY, DELETE_CONTENT, GET_CONTENT, REMOVE_FROM_HISTORY, UPDATE_CONTENT } from "../actionTypes/actionTypes";
 
 
 export const loadNews = (data) => {
     return {
-        type: LOAD_NEWS,
+        type: GET_CONTENT,
         payload: data,
     };
 };
+
+export const addNews = (data) => {
+    return {
+        type: ADD_CONTENT,
+        payload: data,
+    };
+};
+
+export const updateNews = (data) => {
+    return {
+        type: UPDATE_CONTENT,
+        payload: data,
+    };
+};
+
+export const removeNews = (id) => {
+    return {
+        type: DELETE_CONTENT,
+        payload: id,
+    };
+};
+
 
 export const addToHistory = (data) => {
     return {
